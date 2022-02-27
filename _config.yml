@@ -1,7 +1,7 @@
 # Site settings
 title: "Zoomer Ecology"
 #email: jacob@jacobtomlinson.co.uk
-description: "An Evolutionary Framework for the social ecology of Generation Z"
+description: "An Evolutionary Framework for the social ecology of Generation Z - the last generation"
 domain: zoomerecology.github.io
 baseurl: ""
 url: https://zoomerecology.github.io 
@@ -16,8 +16,7 @@ post_limit: 5
 future: True
 
 # Social usernames/URLs
-#twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+github_username:  zoomerecology
 #instagram_username: 
 #reddit_username: 
 #linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
@@ -28,8 +27,8 @@ github_username:  jacobtomlinson
 
 # Footer
 footer_left: "&copy; 2022 a Teutonic Knight"
-footer_right: "Contact: 100501103+zoomerecology@users.noreply.github dot com"
-#footer_right: "<a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noir</a> theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+
+footer_right: "<a href=\"https://github.com/zoomerecology/zoomerecology.github.io/issues\">Contact</a>"
 
 # Build settings
 markdown: kramdown
