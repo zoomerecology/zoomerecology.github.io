@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Women want extraverted offspring not intelligent
+title:      Women want extroverted offspring not intelligent
 date:       2022-02-20 12:32:18
 summary:    
 home: true
