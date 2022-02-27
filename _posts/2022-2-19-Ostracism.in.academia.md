@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Ostracism in academia
+date:       2022-02-20 12:32:18
+summary:    
+tags:
+ - cancel-culture
+---
+
+How much ostracism have you two encountered academia? 
+
+It's not so much ostracism per se in the sense of having a kind of people sort of walking up to you and and spitting in your face. What it is, what i've experienced is lost opportunity. So I lost opportunity. I was there as a visiting fellow, and somebody on the faculty was made aware of my interview with [ __ __ ]. This was all part of the big controversy that surrounded another member of the faculty chat was hosting me at this, at this university. And I was summoned up to this woman and she said, oh, I saw you on the [ __ __ ] Show, and what you said about women made me want to puke. And she said, you're off. You're out of here. Your privileges are revoked. So I had all my questions. Yeah, I had my privileges, which were fairly trivial things like freedom to access certain facilities on campus, you know, discounts if they wanted to use the gym or go swimming or something like that. Had all that revoked, had all that taken away. Unfortunately, the fellowship was maintained by an independent entity, a sort of third party, so they couldn't take the fellowship away from me, nor could they keep me off the campus, because it's an open campus. It's a public university, and I wasn't doing any harm. But I was really told off for that, and told that I was bad and really shouldn't be on the campus and also, the faculty member who was the focal point, the lightning rod for the controversy, I was kind of peripheral to it, that the lightning rod of the controversy was actually told by the university not to work with me again. Now, of course, he retorted, under no circumstances will I do that. But he was actually told to do that who said, don't work with that [ __ __ ] again, he is, you know, he's bad person. And it's, it's things like that.
+
+More minor examples would be, for example, a book which I've written with another academic, actually, two other academics, which was accepted in contract form by a big academic publisher, like one of the really big, top five academic publishers. We signed the contract, we delivered the book, and they read the book, and they found non-pc stuff in there, right? Ie, just just just facts and and and they, they cancelled the contract. After making us do two years of work, they just pulled the contract, they just cancelled it and said, we can't publish this because it's a discrimination and sexist and misogynist and transphobic. And they had this whole list of words which they applied to the book. So, yeah, I we have experience. Well, I personally have experienced ostracism, and it's not a good feeling. It it's costly and it's bad.

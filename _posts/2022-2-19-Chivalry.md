@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Chivalry.md
+date:       2022-02-20 12:32:18
+summary:    
+tags:
+ - modernity
+---
+
+How important is the concept of chivalry, or honor more broadly, to civilization? Why did we evolve for it? And could the modern outrage culture and rise of soyboys be a mutation of it?
+
+So I was thinking about this, and so this various, the question is, what do we mean by chivalry? And it seems this is a concept that started to become discussed kind of around about the 1100s, around about this time when you started to get the crusades and the the development of the knights as a separate social class. And then the the knights develop these ever more complex abs and, uh, and elaborate rituals that you had to go through that were ever more expensive to make you a night. It went from being your father dubs you were night because you're his son, you had to be dubbed by a a a noble and then by the the monarch. And it was things like the church, the importance of religion, defending the church, defending your country. Not recoiling from danger, killing the infidels, is gautier. His idea are not lying and holding port, that is to say, being generous. So you, you you have these these values, really, of the of the sort of the upper class, these nobles oblige, values, the word that were enmeshed in, in knighthood, duties of christian duty to God, duty to women, who you have to show deference to and serve, but ultimately, you're, of course, in charge of them. And courtly love, uh, rituals. And I i wonder if it's sort of the sublimation, to some extent, of of, of, um, of base urges into these highly ritualistic ways of doing things, if you look at Mort Arthur and and, and things like that. So that seems to me to be chivalry. And I suppose you could argue that the the sort of public school tradition could be argued to have attempted to promote the values of chivalry. And it probably is declining. Um, what do you think about chivalry?
+
+I suspect it is declining. Yes, yeah. Because it's a manifestation. It seems to be the imagination of a combination of a group selected, kind of ethnocentric values of selflessness and putting the society ahead of ahead of yourself. And and of strict control of the emotions, such they are sublimated into these, into these rituals. So, this whole way of thinking is seemingly, in decline the outrage. Outrage culture is a culture of selfishness. It's a culture of me. It's the culture of a I should express my feelings, and that's a good thing. Rather than that I shouldn't express them. I should lead them to the battlefield, be I'm important, not the group. So it seems to me that the outraged culture is exactly the opposite of children. Is that fair enough?

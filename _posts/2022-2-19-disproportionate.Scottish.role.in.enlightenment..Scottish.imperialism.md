@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      disproportionate Scottish role in enlightenment
+date:       2022-02-20 12:32:18
+summary:    
+tags:
+ - bio-culture
+---
+
+So is it true that there was a disproportionate amount of enlightenment thinkers who hailed from Scotland? As discussed in a Hermann's book, how the scots invented the modern world? Asked as a fellow scott?
+
+The answer to that is, absolutely the scots did invent them on the world. And if you read in that book, you'll notice that the scots only turned their attention to, putting one of their own on the throne of England, when their colonial enterprise in South America failed, and they decided they'd colonize England instead, which indeed we did, as soon as the tudor, last Tudor monarch died, by putting a stewart on the throne. So the scots did, in fact, invent the modern world. They played a massively disproportionate role. They did produce the vast majority of enlightenment thing, because there seems to be this incredible cluster of scottish ingenuity and scottish brain power, essentially concentrated in Scotland, in the 17th, the 16th, 17th and 18th centuries.
+
+And there were lots of interesting biological things going on with scots as well, which i'd like to get into, but probably, probably I could devote an entire chatper to that, because the bio history of the scots is something I'm busily reconstructing at the moment. There's very, very interesting people.
+
+But you would think that they would be under more intense conditions of selection than the English, wouldn't you? Yes, under strong group selection. Don't forget the although the, the system of feudal Baronegen Scotland largely displaced the tribal system in the lowlands it persisted in the highlands for a very long period of time. And a lot of the pacification dynamics which you would have had within these, like the memorial system in England, where you had actual selection for low levels of collectivism. Smaller families, more devotion to work, that sort of thing. This is kind of hpd chicks hypothesis, and I think it's right. Um, a similar sort of minorialism selection took place with the feudal barons in Scotland. But that never happened in the highlands. So in the highlands, you still had this very intense intergroup competition. That meant you had more opportunity for more interesting evolutionary experiments to be run on those populations. But anyway, it's a conversation for a whole other time.
+
+But suffice it to say, yes, the scots did invent the modern world. Literally, without the scots, you'd all be squatting in ditches, poking berries up your noses.
+
+All the inventions of the industrial revolution that were very significant by the English. And they were often by the English um in the midlands. So really, it's the brummies that invented the modern world. And, we should thank them for that. I think people look down on the  brummies, I they had an input as well. But why do you think the scots have turned so left, that they're very left wing? They seem to be quite collectivist politically, compared to the English, scots, the nationals, this sort of thing.
+
+Well, the scots are imperialists. Okay? Um, the reality is that this has been known since the time of Queen Mary um, when one of her ambassadors was promptly poisoned for announcing to the french king for Scotland Design imperial crew. They've always been imperialists. Their takeover of England was an act of empire building. They were instrumental in creating the the british empire. They were the powerhouse behind it. You'll notice that actually, James Dellingpole, a mutual acquaintance of ours, once referred to, once referred to parliament as a scottish raj because for many, many, many generations we've had scots in positions of very high power and influence within England.
+
+So the scots that sort of have very significant influence. I've always been very unionist, very, very imperialist in that ecological sense of the term, wanting to maintain consolidation within a big territory, essentially. And they'd be the driving force behind british imperialism in the 17th and 18th centuries, which, don't forget, really took off under the stewards. He just had a bunch of piracy going on under the old English Crown, with Walter Raleigh and people like that running around pirating stuff. So, uh. So, so basically that was, that was, that was the extent of english imperialism, was running around pirating things. Scots came along, we fundamentally transformed everything and created a functional empire.
+
+So that's, that is actually the thesis in the book, funnily enough. And it's a very, very good book. I would strongly recommend you read it. Dose it look at things like group selection, though, in his book.
+
+No, no, but it's very easy. I'm re reading the book through the lens of group selection, and I am coming up with a model of scottish evolution, which is based on applying group selection to understanding. 
+
+Scots are spiritually jewish? Well, there is this old thing isn't there about the scots having their sort of being very, being very thrifty? No, not thrifty. Being very coin clutching? There's an old joke about, uh, you know, uh, you're more desperate than a scot in a pay toilet. It's, it's that sort of thing. There is this, there is this sort of national stereotype about scots that they're very, yeah, they're very, uh, frugal. You know, they tend not to spend a lot of money. They tend to save and, and, and, I mean, because it's a financial based stereotype, I'm guessing that's where the conflation comes in. But I don't really see any other parallels between the two groups. They seem to be quite distinct from one another. 
+
+Well, I think, and I think in under the current regime, that's running this the running scotland, which i, I think is not going to be around for much longer, because I think scottish nationalism is, is well and truly dying out there. Um, the, it's not really scottish nationalism. It's what I call globalism with scottish characteristics. It's not, it's fake nationalism. But basically, the current regime up there, Nicholas Sturgeon's lot, probably would nationalize all forms of bodily excretion. I should imagine that that is something that could be taxed and could be nationalized, but I couldn't get it past them, the Green movement, it would be the green one.

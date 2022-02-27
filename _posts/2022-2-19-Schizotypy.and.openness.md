@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      Schizotypy and openness
+date:       2022-02-20 12:32:18
+summary:    
+tags:
+ - big-5
+ - psychopathology
+---
+
+The hypothesis thinking schizoid or schizotypal personality disorder with ingenuity? 
+
+Not with schizophrenia, with Schizophrenia that there is no, there is no relationship. They're too out there to successfully achieve. It's art. It's artistic success, I understand it, rather than scientific success. Schizophrenia, though, you do get occasional examples, like that victorian man that painted cats. 
+
+But that there is some moderate level of schizotypal personality, which which is associated, some optimum level of it, which is associated with dissociation and things like this. And consequently, is heightened among our very artistically successful people. There's evidence for that. I've got a paper coming out at the moment which looks in this kind of area. What's in under review, second round of review. And so, yes, that that is, um, that is true. They, they are, they are, in some senses, more kind of artistic. They can, they see the world in a slightly different way. They they see connections between things in a way that normal people don't. And this allows them somehow produce better art, not science, because they have difficulty, kind of, in logical structure and systematizing, but in in art.
+
+Hans Eyesink had this personality dimension that we called psychoticism. And psychoticism included, among other things, um, this sort of lack of desire to conform with social rules. This this sort of high, high desire for novelty and, and, you know, very high creative ideation. It's been found to correlate with measures of latent inhibition, which you can think of as like a measure of mental bandwidth. So people with low latent inhibition tend to be, they tend to be able to take in all the sensory information from their environment, and use it. Essentially, they can actually use it to do novel and creative things. With people with sort of high latent inhibition tend to be very tunnel vision. They tend to focus on things, they're very sort of singular in terms of how they process things. And that doesn't necessarily lead them to be able to draw these weird conclusions about associations between things in their environment.
+
+I've always preferred the sort of psychoticism slash latent inhibition model to this sort of new jargon of schizotypal and schizoidal and schizophrenic and all this sort of thing that's a sort of semantics. You have the schizoid um, the schizotypal scale, a high openness, it's quite a silly personality trait, because the things that compose the big five, okay, the things that compose openness are quite weakly correlated, which is something that's not necessarily as true with the other the other, personality factors. There's all kinds of things that that that are sort of lumped into openness that kind of can't fit openness.
+
+Openness is really sort of two, possibly four, different things. It's the broadest personality dimension in terms of the sort of breadth of its constituent nonlogical net and it really is a kind of garbage category, actually. Han Eysenk's a 1995 essay which was sort of a critique of openness to experience, is a very good one to read. He points this out, that it kind of includes a lot of things which are not even properly personal, logical or conative in orientation, but cognitive as well, things like what Phil Ackermann referred to as typical intellectual engagement, which is more of a cognitive trait than a conative trait.
+
+And then you have this debate, which is sort of backed up with both neurological and genetic evidence that there is a  a clear distinction between intellect and openness. These things should really be two things. So you have this openness, to me, which includes sort of aesthetic preferences. So being attracted to novel art forms, novel structures, normal use of sort of colors. 
+
+This openness with a lot of these psychological constructs, it has to be remembered they are merely constructs. So, for example, it's very fashionable at the moment autism, asperger's, what is it called? Autism spectrum disorder. Yeah. I could spend an hour talking about the problems with autism and why, really, what they're talking about are a bunch of unrelated social learning disorders, and some people can be diagnosed with autism. And Schizophrenia, despite the fact that fundamentally, that the essence of them could be conceived of as quite different. But because they have enough, enough that crosses over in the in the corollary symptoms. You can be diagnosed with both. So it's a shopping list system where if you've got more than a certain percentage of the symptoms, then you're diagnosed. So it's many different, many different things has developed.
+
+That's equally true of a great many medical conditions. Have you ever looked up a diagnostic criteria for Marfan Syndrome? It's this whole huge hodgepodge of symptoms, which you know, if you have beyond a certain number, you have it. It's true of a lot of things actually, for which we don't have a solid basis, solid understanding of the phenotype. Um, many different things to say. 
+
+Openminded sounds close to emptyheaded. There is this old joke, many different things, which which basically goes along with lines that you can be so openminded that your brains fall out. And I think that's certainly true. Openmindedness does actually seem to capture certain traits which are borderline antiintellectual. And so I would suspect that these, these kinds of leftist protesters are very high in openness. I would suggest a lot of them art students. 
+
+This wretched, conservatism as motivated social cognition, abomination of the paper, the just etal paper from 2003, the infamous one that had frank soloway on it. In there, he points out, that the correlation between openness to experience and political liberalism is point three. But that's stupid, because if you look at the item pool for openness to experience, it actually includes items which positively load on openness to experience, and which which, to answer them in the positive direction means you are revealing liberal political preferences. So part of the domain of openness is liberalism. So to say that openness correlates with liberalism is it's just nonsensical.

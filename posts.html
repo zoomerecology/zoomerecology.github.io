@@ -1,6 +1,6 @@
 ---
 layout: default
-make-smaller-titles: true
+make-smaller-titles: false
 ---
 
 
@@ -9,47 +9,50 @@ make-smaller-titles: true
 
     <h1 class="header author-header">{{ site.author_name }}</h1>
     <h2 class="header" itemprop="headline">All posts</h2>
-    <h2 class="header categories" itemprop="headline"><small>grouped by
+    <hr>
+    <!--h2 class="header categories" itemprop="headline"><small>grouped by
 
       <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Years
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tags
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
-          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
+          <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
         </ul>
       </div>
 
-    </small></h2>
+    </small></h2-->
+    {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign tags_list = site_tags | split:',' | sort %}
 
-      {% for post in site.posts %}
-      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-      {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
-      {% if forloop.first %}
-      <div class="col-md-12 content-panel articles">
-        <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-        <ul>
-      {% endif %}
-
-          <li>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
-          </li>
-      {% if forloop.last %}
-        </ul>
-      </div>
-      {% else %}
-        {% if this_year != next_year %}
-          </ul>
-        </div>
-        <div class="col-md-12 content-panel articles">
-          <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-          <ul>
-        {% endif %}
-    {% endif %}
-
-    {% endfor %}
+    <div class="tag-list">
+        {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+            {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+                <a href="#{{ this_word }}" class="button"><i class="fa fa-tags"></i> {{ this_word }}<span style="vertical-align:super;font-size:16px">{{ site.tags[this_word].size }}</span></a>
+        {% endunless %}{% endfor %}
     </div>
+    <hr>
 
+    {% for tag_pair in site.tags %}
+      {% assign tag = tag_pair | first %}
+      {% assign posts = tag_pair | last %}
+      <div class="col-md-12 content-panel articles">
+        <a name="{{tag | downcase | replace:" ","-"}}"></a> <h2 id="{{ tag }}-ref">{{ tag }}</h2>
+        <ul>
+            {% for post in posts %}
+            {% unless post.pubdraft %}
+              <li>
+                {% if post.medium_link %}
+                <a href="{{ post.medium_link }}?source=brevzin.github.io"><i class="fa fa-medium"></i> {{ post.title }}</a>
+                {% else %}
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                {% endif %}
+                <br /><small class="hidden-xs"><!--{{ post.date | date: "%B %-d, %Y" }}--></small>
+              </li>
+          {% endunless %}
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
   </div>
+</div>
